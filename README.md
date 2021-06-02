@@ -1,5 +1,5 @@
 # Company-Sales-Data-Analysis-and-Visualization-using-Tableau
-A MySQL server data was hooked with tableau, necessary data analysis and data cleaning was performed. At the end, all the data was used to build interactive dashboards on Tableau.
+A MySQL server data was hooked with tableau, necessary data analysis and data cleaning was performed. In the end, all the data was used to build interactive dashboards on Tableau.
 
 In the 'Sales' database, there are in total 5 tables. They are:
 1. customers
@@ -41,4 +41,4 @@ db_dump_version_2.sql was used to make analysis and that data was hooked with Ta
 ### Profit Margin Trend
 ![7  Profit Margin Trend](https://user-images.githubusercontent.com/45898995/120526724-55e1c880-c3fb-11eb-993e-151981b587dc.png)
 
-###### Note: *The PowerBI online publishing link isn't available right now because of subscription issues. I'll add that online link soon, so anyone can open it and interact with it as the whole thing is very dynamic.*
+###### Note: *The Tableau online publishing link isn't available right now because of subscription issues. I'll add that online link soon, so anyone can open it and interact with it as the whole thing is very dynamic.*

@@ -10,6 +10,8 @@ In the 'Sales' database, there are in total 5 tables. They are:
 
 Necessary data cleaning was done, for example: *remove the empty rows, change the date format, currency conversion etc.*
 
+db_dump_version_2.sql was used to make analysis and that data was hooked with Tableau for making Dashboards.
+
 ### Fact Table Relation
 ![1  Fact Table Relation](https://user-images.githubusercontent.com/45898995/120525890-72313580-c3fa-11eb-8bdf-8be451295868.png)
 

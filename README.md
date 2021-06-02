@@ -32,7 +32,6 @@ db_dump_version_2.sql was used to make analysis and that data was hooked with Ta
 ### Profit Margin by Markets
 ![3  Profit Margins by Market](https://user-images.githubusercontent.com/45898995/120526368-f1bf0480-c3fa-11eb-973b-02d48a2b3761.png)
 
-###### Note: *The PowerBI online publishing link isn't available right now because of subscription issues. I'll add that online link soon, so anyone can open it and interact with it as the whole thing is very dynamic.*
 ### Sales Quantity by Market
 ![4  Sales Quantity by Market](https://user-images.githubusercontent.com/45898995/120526527-19ae6800-c3fb-11eb-9970-c19157a40e93.png)
 
@@ -41,3 +40,5 @@ db_dump_version_2.sql was used to make analysis and that data was hooked with Ta
 
 ### Profit Margin Trend
 ![7  Profit Margin Trend](https://user-images.githubusercontent.com/45898995/120526724-55e1c880-c3fb-11eb-993e-151981b587dc.png)
+
+###### Note: *The PowerBI online publishing link isn't available right now because of subscription issues. I'll add that online link soon, so anyone can open it and interact with it as the whole thing is very dynamic.*

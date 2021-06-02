@@ -12,6 +12,13 @@ Necessary data cleaning was done, for example: *remove the empty rows, change th
 
 db_dump_version_2.sql was used to make analysis and that data was hooked with Tableau for making Dashboards.
 
+# DASHBOARD - Revenue Analysis
+![6  Dashboard - Revenue Analysis](https://user-images.githubusercontent.com/45898995/120538149-f5a55380-c407-11eb-8964-b85cef725f34.png)
+
+# DASHBOARD - Profit Analysis
+![8  Dashboard - Profit Analysis](https://user-images.githubusercontent.com/45898995/120538267-1e2d4d80-c408-11eb-97a5-212629e6a0de.png)
+
+
 ### Fact Table Relation
 ![1  Fact Table Relation](https://user-images.githubusercontent.com/45898995/120525890-72313580-c3fa-11eb-8bdf-8be451295868.png)
 

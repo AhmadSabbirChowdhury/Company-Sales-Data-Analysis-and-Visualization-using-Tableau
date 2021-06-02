@@ -9,3 +9,6 @@ In the 'Sales' database, there are in total 5 tables. They are:
 5. transactions
 
 Necessary data cleaning was done, for example: *remove the empty rows, change the date format, currency conversion etc.*
+
+### Fact Table Relatioship
+![1  Fact Table Relation](https://user-images.githubusercontent.com/45898995/120525890-72313580-c3fa-11eb-8bdf-8be451295868.png)

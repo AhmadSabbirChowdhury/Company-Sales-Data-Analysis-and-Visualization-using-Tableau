@@ -18,6 +18,10 @@ db_dump_version_2.sql was used to make analysis and that data was hooked with Ta
 # DASHBOARD - Profit Analysis
 ![8  Dashboard - Profit Analysis](https://user-images.githubusercontent.com/45898995/120538267-1e2d4d80-c408-11eb-97a5-212629e6a0de.png)
 
+# DASHBOARD - Profit Analysis on October 2019
+![9  Profit Analysis on October 2019](https://user-images.githubusercontent.com/45898995/120538491-664c7000-c408-11eb-9e17-79a658180ebe.png)
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
 ### Fact Table Relation
 ![1  Fact Table Relation](https://user-images.githubusercontent.com/45898995/120525890-72313580-c3fa-11eb-8bdf-8be451295868.png)
